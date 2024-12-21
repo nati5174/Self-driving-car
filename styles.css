@@ -1,0 +1,12 @@
+body{
+    background: darkgrey;
+    margin: 0;
+    overflow: hidden;
+    text-align: center;
+
+}
+
+#myCanva{
+    background: lightgrey;
+    
+}
